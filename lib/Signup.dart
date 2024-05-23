@@ -63,7 +63,6 @@ class _SignUpFormState extends State<SignUpForm> {
                     return null;
                   },
                 ),
-                hi
                 const SizedBox(height: 5),
                 TextFormField(
                   controller: _emailController,
